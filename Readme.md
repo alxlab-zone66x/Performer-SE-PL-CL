@@ -1,16 +1,16 @@
 # Micromac Performer SE/Plus/Classic Clone
-  
+
 This is a recreation of the MicroMac SE/Plus/Classic accelerator.  
 The schematics have been reverse engineered and a new PCB was created based on the schematics.
-  
-![fully populated board](/Performer_populated.jpg)
-  
+
+![fully populated board](Performer_populated.jpg)
+
 The provided PCB files are licensed under CC-BY-NC-SA - they are NOT intended for commercial use.  
+
   
-  
-  
+
 # Notes on GALs and jumpers
-  
+
 The original GALs have been dumped. GAL16V8-15 as well as PALCE16V8-15 have been tested as suitable replacement.
 Faster/slower chips as well as ATF16V8 of any speed haven't been tested so far.
 
@@ -23,7 +23,9 @@ The original design used 25MHz which has been verified to work on the clone as w
 
 I have not found a socket that allows secure installation over the PLCC CPU in the Macintosh Classic.
 Proper operation has been tested in the Macintosh Plus and SE but so far not on the Classic.
-  
+
 # Board Files
-  
+
 The provided gerber files have been generated using the JLCPCB EAGLE cam job files.  
+
+The Kicad project files are placed inside the `kicad` folder. It's been slightly tweaked from the original Eagle project to pass DRC. The silkscreen for the Macintosh Classic and Macintosh Plus were moved to the bottom.
