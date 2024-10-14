@@ -27746,7 +27746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Performer-SE-PL-CL:MPGA128"
+		(property "Footprint" "project:CPGA-169_MC68030"
 			(at 360.68 101.6 0)
 			(effects
 				(font
@@ -32369,7 +32369,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Performer-SE-PL-CL:MPGA128"
+		(property "Footprint" "project:CPGA-169_MC68030"
 			(at 359.41 194.31 0)
 			(effects
 				(font

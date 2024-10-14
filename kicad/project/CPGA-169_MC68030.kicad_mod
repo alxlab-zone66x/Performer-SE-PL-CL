@@ -1,4 +1,4 @@
-(footprint "CPGA-169_68030"
+(footprint "CPGA-169_MC68030"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "CPGA-169_68030"
+	(property "Value" "CPGA-169_MC68030"
 		(at 0 18.288 0)
 		(layer "F.Fab")
 		(uuid "ee9bfd73-64fc-4a79-b02b-72aca566fb51")
@@ -1352,16 +1352,5 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "905d1941-6e5d-4b38-9103-231c840a9641")
-	)
-	(model "${KICAD8_3DMODEL_DIR}/Package_BGA.3dshapes/Xilinx_CPGA196.wrl"
-		(offset
-			(xyz 0 0 0)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
 	)
 )
