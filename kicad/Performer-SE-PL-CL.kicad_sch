@@ -22086,7 +22086,7 @@
 	)
 	(text "nc"
 		(exclude_from_sim no)
-		(at 304.8 55.88 0)
+		(at 279.4 55.88 0)
 		(effects
 			(font
 				(size 1.778 1.5113)
@@ -27746,7 +27746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "project:CPGA-169_MC68030"
+		(property "Footprint" "project:CPGA-128_Layout13x13_MC68030"
 			(at 360.68 101.6 0)
 			(effects
 				(font
@@ -32369,7 +32369,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "project:CPGA-169_MC68030"
+		(property "Footprint" "project:CPGA-128_Layout13x13_MC68030"
 			(at 359.41 194.31 0)
 			(effects
 				(font

@@ -1,10 +1,10 @@
-(footprint "CPGA-169_MC68030"
+(footprint "CPGA-128_Layout13x13_MC68030"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(descr "MC68030, 13x13 Layout, 2.54mm Pitch")
-	(tags "CPGA-169 2.54 68030")
+	(tags "CPGA-128 2.54 68030")
 	(property "Reference" "REF**"
 		(at 0 -18.415 0)
 		(layer "F.SilkS")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "CPGA-169_MC68030"
+	(property "Value" "CPGA-128_Layout13x13_MC68030"
 		(at 0 18.288 0)
 		(layer "F.Fab")
 		(uuid "ee9bfd73-64fc-4a79-b02b-72aca566fb51")
