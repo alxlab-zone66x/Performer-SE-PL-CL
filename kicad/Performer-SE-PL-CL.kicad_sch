@@ -33347,7 +33347,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "project:DIN41612_R_3x32_Male_Vertical_THT_Mirror"
+		(property "Footprint" "project:DIN41612_R_3x32_Male_Vertical_THT_Mirror_NoMountingHoles"
 			(at 53.34 106.68 0)
 			(effects
 				(font
