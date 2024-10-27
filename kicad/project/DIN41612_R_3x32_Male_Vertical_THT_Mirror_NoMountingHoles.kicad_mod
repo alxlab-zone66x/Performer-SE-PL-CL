@@ -1,4 +1,4 @@
-(footprint "DIN41612_R_3x32_Male_Vertical_THT_Mirror"
+(footprint "DIN41612_R_3x32_Male_Vertical_THT_Mirror_NoMountingHoles"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "DIN41612_R_3x32_Male_Vertical_THT_Mirror"
+	(property "Value" "DIN41612_R_3x32_Male_Vertical_THT_Mirror_NoMountingHoles"
 		(at 2.54 87.87 0)
 		(layer "F.Fab")
 		(uuid "908fb8c6-146b-46b5-89ba-4703c155afea")
@@ -7104,20 +7104,6 @@
 				(thickness 0.15)
 			)
 		)
-	)
-	(pad "" np_thru_hole circle
-		(at 2.24 -5.63)
-		(size 2.85 2.85)
-		(drill 2.85)
-		(layers "*.Cu" "*.Mask")
-		(uuid "b462fb26-bc70-48dd-876c-9e1f948af1fb")
-	)
-	(pad "" np_thru_hole circle
-		(at 2.24 84.37)
-		(size 2.85 2.85)
-		(drill 2.85)
-		(layers "*.Cu" "*.Mask")
-		(uuid "6582b8be-1fc2-40c9-8551-4514f2af82b7")
 	)
 	(pad "A1" thru_hole roundrect
 		(at 0 78.74)
