@@ -6,7 +6,7 @@
 	(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal")
 	(tags "capacitor handsolder")
 	(property "Reference" "REF**"
-		(at 0 -1.85 0)
+		(at 0 -1.926 0)
 		(layer "F.SilkS")
 		(uuid "b407f268-daf0-4d1d-a344-899359edb348")
 		(effects
@@ -67,6 +67,26 @@
 		)
 	)
 	(attr smd)
+	(fp_line
+		(start -0.711252 -0.889)
+		(end 0.711252 -0.889)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9489133e-4306-4d9a-9784-b77bcf1d6ae7")
+	)
+	(fp_line
+		(start -0.711252 0.889)
+		(end 0.711252 0.889)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "90e2056a-98df-473f-9b2f-5bb15e2179cc")
+	)
 	(fp_line
 		(start -2.48 -1.15)
 		(end 2.48 -1.15)
@@ -159,14 +179,14 @@
 		)
 	)
 	(pad "1" smd rect
-		(at -1.425 0)
-		(size 1.6 1.8)
+		(at -1.5625 0)
+		(size 1.325 1.8)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "977259c5-c5b1-401c-aabf-2ef5f2004b8e")
 	)
 	(pad "2" smd rect
-		(at 1.425 0)
-		(size 1.6 1.8)
+		(at 1.5625 0)
+		(size 1.325 1.8)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "50196c76-95b2-4242-a177-c3e5c692e43a")
 	)
