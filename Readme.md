@@ -51,7 +51,7 @@ Parts shared between the Performer SE design variations.
 | Quantity | Description                                     | Designators                                                  | Product Number                                               |
 | :------- | ----------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 4        | 100uF 6.3v 1206 mlcc                            | C1, C2, C3, C4                                               |                                                              |
-| 5        | 0.1uF 6.3v 1206 mlcc                            | C5, C6, C7, C8                                               |                                                              |
+| 5        | 0.1uF 6.3v 1206 mlcc                            | C5, C6, C7, C8, C9                                           |                                                              |
 | 18       | 4.7kOhms 1/4W 1206 resistor                     | R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18 |                                                              |
 | 4-6      | 0.5mm press-fit pin socket (optional)           | QG1                                                          | [0531-0-15-15-31-27-10-0](docs/datasheets/Mill-Max_0531-0-15-15-31-27-10-0.pdf) |
 | 1        | 25MHz oscillator 8-pin or 14-pin dip (optional) | QG1                                                          | [ECS-2200B-250](docs/datasheets/ECS_ECS-2200B-250.pdf), [ECS-100AX-250](docs/datasheets/ECS_ECS-100AX-250.pdf) |
